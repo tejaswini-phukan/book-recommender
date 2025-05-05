@@ -1,19 +1,19 @@
-Fiction,Mystery,SciFi,Romance,Age,Mood,Book
-8,7,3,2,20,7,Sherlock Holmes
-4,2,8,1,25,5,Dune
-5,3,4,8,18,9,Pride & Prejudice
-7,8,2,3,22,6,Gone Girl
-3,1,7,2,28,4,Ender's Game
-6,5,5,6,19,8,The Alchemist
-2,1,9,1,30,3,Foundation
-9,6,1,7,21,7,The Notebook
-5,4,6,5,24,6,The Martian
-3,3,7,4,29,4,Neuromancer
-7,5,2,9,17,9,Me Before You
-6,6,3,7,23,8,Turtles All the Way Down
-4,9,2,2,27,6,The Girl with the Dragon Tatoo
-3,2,8,3,26,5,Ready Player One
-5,8,1,2,25,5,The Vinci Code
-5,3,3,9,18,9,Eleanor and Park
-4,4,4,6,21,7,The Midnight Library
-5,5,5,5,8,8,Mulgudi Days
+Fiction,Mystery,SciFi,Romance,Age,Mood,Book,image_url
+8,7,3,2,20,7,Sherlock Holmes,http://www.penguin.com.au/covers/catalog/9780141332499.jpg
+4,2,8,1,25,5,Dune,https://www.indiependent.co.uk/wp-content/uploads/2020/06/A1u2fY5yTL-scaled.jpg
+5,3,4,8,18,9,Pride & Prejudice,https://i.etsystatic.com/6617168/r/il/e6efc0/4870854990/il_fullxfull.4870854990_sevp.jpg
+7,8,2,3,22,6,Gone Girl,https://upload.wikimedia.org/wikipedia/en/7/7e/Gone_Girl_%28Flynn_novel%29.jpg
+3,1,7,2,28,4,Ender's Game,https://mpd-biblio-covers.imgix.net/9780765394866.jpg
+6,5,5,6,19,8,The Alchemist,https://cdn.kobo.com/book-images/5967e7fb-edc8-403b-9989-f8aab7b3ed89/1200/1200/False/the-alchemist-38.jpg
+2,1,9,1,30,3,Foundation,https://strangerthansf.com/scans/asimov-foundation.jpg
+9,6,1,7,21,7,The Notebook,https://images.thalia.media/-/BF2000-2000/6e239b6dbbcb40dbbf1babfe4dcf148b/the-notebook-taschenbuch-nicholas-sparks-englisch.jpeg
+5,4,6,5,24,6,The Martian,https://cdn2.penguin.com.au/covers/original/9781473582323.jpg
+3,3,7,4,29,4,Neuromancer,https://i.redd.it/nzdz67uqcof81.jpg
+7,5,2,9,17,9,Me Before You,http://ecx.images-amazon.com/images/I/818tMZ3aozL._SL1500_.jpg
+6,6,3,7,23,8,Turtles All the Way Down,https://cdn2.penguin.com.au/covers/original/9780141346045.jpg
+4,9,2,2,27,6,The Girl with the Dragon Tatoo,https://upload.wikimedia.org/wikipedia/en/b/bc/Thegirlwiththedragontattoo.jpg
+3,2,8,3,26,5,Ready Player One,https://candidcover.net/wp-content/uploads/A1LwJRZJzhL.jpg
+5,8,1,2,25,5,The Vinci Code,https://upload.wikimedia.org/wikipedia/en/6/6b/DaVinciCode.jpg
+5,3,3,9,18,9,Eleanor and Park,https://images.macmillan.com/folio-assets/macmillan_us_frontbookcovers_1000H/9781250031211.jpg
+4,4,4,6,21,7,The Midnight Library,https://media.npr.org/assets/img/2020/09/30/815-u8gacyl_custom-56b93f54c3bde063acf1f74a343642b8c77c57c3-s1400.jpg
+5,5,5,5,8,8,Mulgudi Days,http://prodimage.images-bn.com/pimages/9780143039655_p0_v1_s1200x630.jpg
