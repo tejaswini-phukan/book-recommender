@@ -74,8 +74,8 @@ st.markdown("""
 st.title("📚 Personalized Book Recommendation")
 
 # Dataset preview
-with st.expander("📂 Preview Dataset"):
-    st.dataframe(data.head())
+#with st.expander("📂 Preview Dataset"):
+   # st.dataframe(data.head())
 
 # Model Training
 X = data.drop(["Book", "image_url"], axis=1)
@@ -84,7 +84,7 @@ X_train, X_test, y_train, y_test = train_test_split(X, y, test_size=0.2, random_
 model = DecisionTreeClassifier()
 model.fit(X_train, y_train)
 accuracy = accuracy_score(y_test, model.predict(X_test))
-st.success(f"✅ Model trained with Accuracy: **{accuracy:.2f}**")
+#st.success(f"✅ Model trained with Accuracy: **{accuracy:.2f}**")
 
 # Decorative Divider
 st.markdown("""
