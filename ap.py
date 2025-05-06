@@ -75,7 +75,7 @@ st.title("📚 Personalized Book Recommendation")
 
 # Dataset preview
 #with st.expander("📂 Preview Dataset"):
-   # st.dataframe(data.head())
+    #st.dataframe(data.head())
 
 # Model Training
 X = data.drop(["Book", "image_url"], axis=1)
@@ -135,4 +135,3 @@ if st.button("📖 Recommend a Book"):
              alt="Happy reading">
     </div>
     """, unsafe_allow_html=True)
-
