@@ -1,6 +1,6 @@
 # 📚 Book Recommender System
 
-Welcome to the **Book Recommender System** – an AI-powered recommendation engine built using **Machine Learning (Decision Tree Classifier)** and **Streamlit**. This project was created as a beginner-friendly AI/ML app to suggest books based on user preferences like genre, author, and reading history.
+Welcome to the **Book Recommender System** – an AI-powered recommendation engine built using **Mathematics** and **Machine Learning (Decision Tree Classifier)** and **Streamlit**. This project was created as a beginner-friendly AI/ML app to suggest books based on user preferences like genre, author, and reading history.
 
 Whether you're a bookworm or a curious beginner exploring machine learning, this project gives a practical peek into how recommendation engines work in the real world.
 
@@ -22,7 +22,7 @@ The goal of this project is to:
 |------------|---------|
 | **Python** | Programming language |
 | **Pandas** | Data handling and preprocessing |
-| **Scikit-learn** | Machine learning (Decision Tree Classifier) |
+| **Scikit-learn** | Machine learning (Decision Tree Classifier) | Eucleidian Distances
 | **Streamlit** | Web application framework |
 | **Jupyter Notebook** | Model training and testing |
 
